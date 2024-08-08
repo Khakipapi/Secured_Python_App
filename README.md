@@ -21,9 +21,6 @@ To start the Flask application, run the `app.py` script:
 flask run
 ```
 
-### Accessing the Application
-Open your web browser and navigate to [http://127.0.0.1:5000/](http://127.0.0.1:5000/) to access the application.
-
 ## Features
 - **User Authentication:** Includes user login and registration.
 - **Database Interaction:** Uses SQLite for storing user data.
