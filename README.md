@@ -1,6 +1,3 @@
-Based on the initial analysis of the `app.py` script, it appears to be a web application built with Flask, including user authentication, database interaction, and form handling. Here is a comprehensive README file in Markdown format for this project:
-
-```markdown
 # Flask Web Application
 
 ## Introduction
