@@ -24,7 +24,7 @@ To run this application, ensure you have Python and Flask installed on your mach
 ### Steps to Install:
 1. Clone the repository:
     ```sh
-    git clone <repository_url>
+    git clone https://github.com/Khakipapi/Secured_Python_App.git
     ```
 2. Navigate to the project directory:
     ```sh
